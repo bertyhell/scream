@@ -18,6 +18,7 @@
     "*.md",
     "sandbox",
     "src",
+    "tests",
     "gulpfile.js",
     "package.json"
   ]
